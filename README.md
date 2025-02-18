@@ -7,14 +7,14 @@
 - **API Testing**: APIs tested using **Postman**.
 - **Dockerized**: Containerized for seamless deployment.
 
-## Technologies Used
+## Tools and Technologies Used
 - **Backend**: Java, Spring Boot, MyBatis
 - **Database**: MySQL
 - **API Testing**: Postman
 - **Containerization**: Docker
 - **Design Patterns**: Implemented to ensure clean and maintainable code.
 
-## My Role
+## My Responsibilities
 As the **Project Manager**, I:
 - Led the team using **Agile methodology**.
 - Tracked progress and planned **sprints**.
